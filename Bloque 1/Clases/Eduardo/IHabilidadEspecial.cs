@@ -1,9 +1,6 @@
 namespace Clases;
 
 interface IHabilidadEspecial
-{
-    void usarHabilidad()
-    {
-        
-    }
+{       
+    void usarHabilidad(){}
 }
