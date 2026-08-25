@@ -1,0 +1,15 @@
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.AssemblyInfoInputs.cache
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.AssemblyInfo.cs
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.csproj.CoreCompileInputs.cache
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.sourcelink.json
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\bin\Debug\net10.0\Eduardo.exe
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\bin\Debug\net10.0\Eduardo.deps.json
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\bin\Debug\net10.0\Eduardo.runtimeconfig.json
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\bin\Debug\net10.0\Eduardo.dll
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\bin\Debug\net10.0\Eduardo.pdb
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.dll
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\refint\Eduardo.dll
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.pdb
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\Eduardo.genruntimeconfig.cache
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque 1\Clases\Eduardo\obj\Debug\net10.0\ref\Eduardo.dll
