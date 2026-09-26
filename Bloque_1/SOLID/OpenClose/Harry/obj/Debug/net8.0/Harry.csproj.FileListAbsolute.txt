@@ -1,0 +1,12 @@
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\Harry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\Harry.AssemblyInfoInputs.cache
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\Harry.AssemblyInfo.cs
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\Harry.csproj.CoreCompileInputs.cache
+C:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\Harry.sourcelink.json
+c:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\bin\Debug\net8.0\Harry.deps.json
+c:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\bin\Debug\net8.0\Harry.dll
+c:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\bin\Debug\net8.0\Harry.pdb
+c:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\Harry.dll
+c:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\refint\Harry.dll
+c:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\Harry.pdb
+c:\Users\jorge\TPCS\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\Bloque_1\SOLID\OpenClose\Harry\obj\Debug\net8.0\ref\Harry.dll

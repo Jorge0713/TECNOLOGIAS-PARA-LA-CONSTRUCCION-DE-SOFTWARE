@@ -8,5 +8,9 @@ public class Lampara implements ActivablePorRedstone{
     @Override
     public void desactivar(){
         System.out.println("La lampara se apaga");
+        System.out.println("Lampara.desactivar()");
+        
+    
     }
+    
 }

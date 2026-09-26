@@ -34,13 +34,15 @@ class Cliente {
     }
 
     calcularPrecio() : number{
-        const precios: Record<string,number > = {"basico" : 299, "intemedio" : 499, "pro" : 999}
+        const precios: Record<Plan,number > = {"basico" : 299, "intermedio" : 499, "pro" : 999}
         const precio = precios[this.plan]
         return precio
     }
     generarFactura(): string{
         const folio = `Britania - ${Date.now()}`
+        const total = this.calcularPrecio()
         const factura = `Cliente: ${this.nombre} | Plan: ${this.plan} | Total: ${total}`;
+        return factura
     }
     enviarCorreo(){
         console.log(`Bienvenido ${this.nombre} has sido registrado con el plan ${this.plan}`);
@@ -64,3 +66,4 @@ const angel = new Cliente('angel rojas', 'angelrojas@gmail.com', 35, 'intermedio
 
 angel.registrarSuscripcion();
 
+export {}
