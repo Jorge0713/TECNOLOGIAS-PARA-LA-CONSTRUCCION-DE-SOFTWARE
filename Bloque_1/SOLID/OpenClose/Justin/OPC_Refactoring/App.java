@@ -11,3 +11,4 @@ public class App {
         caja.cobrar(bebidas, null, 1200000);
     }
 }
+

@@ -1,6 +1,8 @@
 package Bloque_1.SOLID.OpenClose.Justin.OPC_Refactoring;
 
-public class DescuentoNavidad implements Descuento{
+public class DescuentoNavidad implements 
+
+{
     @Override 
     public double aplicar(double total){
         return total * 0.90;

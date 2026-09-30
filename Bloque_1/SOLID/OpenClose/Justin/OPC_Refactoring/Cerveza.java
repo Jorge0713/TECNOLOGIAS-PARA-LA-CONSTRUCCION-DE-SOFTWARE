@@ -13,6 +13,6 @@ public class Cerveza extends Bebida{
     }
     @Override
     public double calcularTotal(){
-        return getPrecioBase();
+        return getPrecioBase() + IEPS;
     }
 }

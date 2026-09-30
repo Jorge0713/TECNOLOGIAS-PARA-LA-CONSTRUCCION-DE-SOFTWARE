@@ -1,7 +1,7 @@
 package Miguel;
 
 public class BloqueMusical implements ActivablePorRedstone{
-     @Override
+    @Override
     public void activar() {
         System.out.println("Bloque recibe señal y reproduce musica");
     }

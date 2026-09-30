@@ -2,7 +2,7 @@ package Bloque_1.SOLID.OpenClose.Justin.OPC_Refactoring;
 
 public class Caja {
     double subtotal;
-    public void cobrar(Bebida[] bebidas, Dsscuento descuento, double efectivo){
+    public void cobrar(Bebida[] bebidas, Descuento descuento, double efectivo){
         for (Bebida bebida : bebidas) {
             System.out.println(bebida.getEtiqueta() +  " $ " + bebida.calcularTotal());
             if(bebida.requiereINE()) System.out.println("Requiere INE");
