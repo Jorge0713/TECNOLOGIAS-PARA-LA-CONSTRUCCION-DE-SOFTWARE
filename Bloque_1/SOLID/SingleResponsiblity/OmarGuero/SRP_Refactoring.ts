@@ -27,7 +27,6 @@ class User {
 
 class Validadora {
     validarUsuario(user: User): boolean {
-        // Corrección: invocación con ()
         if (user.getNombre().trim().length < 1) {
             console.log(`Nombre inválido o demasiado corto.`);
             return false;

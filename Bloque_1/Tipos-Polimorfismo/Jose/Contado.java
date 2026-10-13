@@ -6,8 +6,6 @@ public class Contado implements MetodoPago{
     public Contado(boolean estadoBillete){
         this.estadoBillete = estadoBillete;
     }
-
-
     @Override
     public boolean validar(){
         return estadoBillete;

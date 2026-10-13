@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jorge\\TPCS\\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\\Bloque_1\\Clases\\Eduardo\\Eduardo.csproj",
+      "projectUniqueName": "C:\\Users\\jorge\\TPCS\\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\\Bloque_1\\Clases\\Eduardo\\Eduardo.csproj",
       "projectName": "Eduardo",
-      "projectPath": "c:\\Users\\jorge\\TPCS\\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\\Bloque_1\\Clases\\Eduardo\\Eduardo.csproj",
+      "projectPath": "C:\\Users\\jorge\\TPCS\\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\\Bloque_1\\Clases\\Eduardo\\Eduardo.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jorge\\TPCS\\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\\Bloque_1\\Clases\\Eduardo\\obj\\",
+      "outputPath": "C:\\Users\\jorge\\TPCS\\TECNOLOGIAS-PARA-LA-CONSTRUCCION-DE-SOFTWARE\\Bloque_1\\Clases\\Eduardo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

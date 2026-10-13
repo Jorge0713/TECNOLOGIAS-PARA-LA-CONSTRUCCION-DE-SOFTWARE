@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 class User {
     nombre;
     email;
@@ -25,7 +26,6 @@ class User {
 }
 class Validadora {
     validarUsuario(user) {
-        // Corrección: invocación con ()
         if (user.getNombre().trim().length < 1) {
             console.log(`Nombre inválido o demasiado corto.`);
             return false;
@@ -97,3 +97,4 @@ const vaughan = new User("Vaughan", "lobita@gmail.com", 48, "chipocludo");
 const facturacion = new Factura();
 const britania = new ServicioDeportivo(new Validadora(), new ServicioCorreo(), new RepositorioBD(), facturacion);
 britania.registrarSubscripcion(vaughan);
+//# sourceMappingURL=SRP_Refactoring.js.map

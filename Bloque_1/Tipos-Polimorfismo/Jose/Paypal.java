@@ -8,13 +8,10 @@ public class Paypal implements MetodoPago{
 
     @Override
     public boolean validar(){
-        if (this.correo.contains("@")){
+        if (this.correo.contains("@"))
             return true;
-        }
         else 
-        {
             return false;
-        }
     }
 
     public void pagar(double monto){
